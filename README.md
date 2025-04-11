@@ -30,5 +30,5 @@ This is a **Graphical User Interface (GUI)** version of the Movie Ticket Booking
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/movie-ticket-booking-system-java-gui.git
-   cd movie-ticket-booking-system-java-gui
+   git clone https://github.com/akankshaadz/movie-ticket-booking-java.git
+   cd movie-ticket-booking-java
