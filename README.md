@@ -3,7 +3,7 @@
 
 This is a **Graphical User Interface (GUI)** version of the Movie Ticket Booking System developed in **Java** using **Swing**. It allows users to book movie tickets easily through an interactive interface.
 
----
+--- 
 
 ## ✨ Features
 
