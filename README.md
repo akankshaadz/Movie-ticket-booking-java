@@ -6,7 +6,7 @@ This is a **Graphical User Interface (GUI)** version of the Movie Ticket Booking
 --- 
 
 ## ✨ Features
-
+ 
 - 🎥 Browse available movies and show timings  
 - 🪑 Select seats via a graphical seat layout  
 - 📩 View and confirm ticket bookings  
